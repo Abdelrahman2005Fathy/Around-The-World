@@ -1,5 +1,5 @@
-import Logo from "./Logo";
-import ThemeSwitcher from "./ThemeSwithcer";
+import Logo from '../Logo';
+import ThemeSwitcher from '../ThemeSwithcer';
 
 const Header = () => {
   return (

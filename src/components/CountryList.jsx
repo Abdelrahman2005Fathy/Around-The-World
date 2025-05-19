@@ -1,5 +1,5 @@
-import CountryCard from "./CountryCard";
-import EmptySearch from "./EmptySearch";
+import CountryCard from '../CountryCard';
+import EmptySearch from '../EmptySearch';
 
 const CountryList = ({ data }) => {
   return (
